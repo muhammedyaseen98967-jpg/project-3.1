@@ -1,0 +1,11 @@
+data/raw/
+data/processed/
+*.db
+*.CSV
+.venv/
+venv/
+_pycache
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
